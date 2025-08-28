@@ -33,7 +33,7 @@ const Homepage = () => {
         </motion.h1>
 
         <p className="text-center text-gray-600 mt-3 italic text-base sm:text-lg">
-          "Empowering Education with Digital Innovation"
+          &ldquo;Empowering Education with Digital Innovation&rdquo;
         </p>
 
         <p className="p-3 text-center text-sm sm:text-base text-gray-700 mt-2">
